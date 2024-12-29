@@ -63,3 +63,9 @@ safe_dnas, results = process_image(
 - `max_variants`: Maximum variants to try if initial attempts fail
 - `ecc_symbols`: Number of error correction symbols (You need to use the same value when decoding)
 - `best_of`: Number of attempts for each variant generation
+
+
+## Main contributors:
+
+* [Diane Letourneur](https://www.linkedin.com/in/diane-letourneur-396a7a25a)
+* [Quentin Feuillade--Montixi](https://www.linkedin.com/in/quentin101010/)
