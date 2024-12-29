@@ -1,0 +1,7 @@
+reedsolo
+tqdm
+numpy==1.26.4
+pandas
+biopython
+pillow
+scikit-learn==1.0.2
